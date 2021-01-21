@@ -1,4 +1,4 @@
-baseURL = "https://yish91.gitlab.io/ybws/"
+baseURL = "https://yish91.gitlab.io/"
 languageCode = "en-us"
 title = "YBWS"
 theme = "ananke"
